@@ -7,8 +7,8 @@ The script `run_analysis.R`performs the 5 steps described in the course project'
 * Then we charge all data into memory and after that the data is merged by binding it by rows.
 * After that we take the data that contains the columns that specifies mean and std. And also we correct the names from
 features.
- * The names are taken from activity in `activity_labels.txt` and are substituted.
- * Finally, a new dataset is generated with all the average measures.ded to this repository.
+* The names are taken from activity in `activity_labels.txt` and are substituted.
+* Finally, a new dataset is generated with all the average measures.ded to this repository.
 
 # Variables
 
